@@ -10,7 +10,7 @@ This repository is a minimalist working version of cloud coverage computation. T
 
 ### Usage
 
-+ Please store the sample innput image inside the `image` folder. Please note that our images are captured by [WAHRSIS](https://arxiv.org/pdf/1605.06595.pdf), and have a fixed dimension of `5184x3456` pixels.
++ Please store the sample input image inside the `image` folder. Please note that our images are captured by [WAHRSIS](https://arxiv.org/pdf/1605.06595.pdf), and have a fixed dimension of `5184x3456` pixels.
 + Run the script `python2 find_coverage.py`. This computes the following:
 	+ Generates the resultant binary image, and saves it inside the `image` folder.
 	+ Outputs and displays the cloud coverage ratio. Please note that we neglect the black border around the central circular region, while computing the cloud coverage value.
