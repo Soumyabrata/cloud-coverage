@@ -6,7 +6,7 @@ This repository is a minimalist working version of cloud coverage computation. T
 
 > S. Dev, Y. H. Lee, S. Winkler, Systematic Study of Color Spaces and Components for the segmentation of sky/cloud images, *Proc. IEEE International Conference on Image Processing (ICIP)*, Oct. 2014.
 
-![summary](./rsz_summary.png)
+![summary](./summary.png)
 
 ### Usage
 
